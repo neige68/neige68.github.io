@@ -1,4 +1,4 @@
 # neige68.github.io
 
-* [shiki-no-keisan-dll](shiki-no-keisan-dll)
-* [try-github-pages](try-github-pages)
+* [式の計算(計算式評価)DLL](shiki-no-keisan-dll)
+* [テストページ](try-github-pages)
